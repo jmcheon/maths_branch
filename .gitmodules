@@ -1,0 +1,9 @@
+[submodule "ready_set_boole"]
+	path = ready_set_boole
+	url = https://github.com/jmcheon/ready_set_boole
+[submodule "matrix"]
+	path = matrix
+	url = https://github.com/jmcheon/matrix
+[submodule "computorv1"]
+	path = computorv1
+	url = https://github.com/jmcheon/computorv1
